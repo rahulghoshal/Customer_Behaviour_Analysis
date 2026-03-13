@@ -16,8 +16,8 @@ The dataset contains customer purchase and behavioral information, including:
 - Purchase Amount  
 - Previous Purchases  
 - Discount Applied  
-- Category of Purchase  
-- Customer Feedback  
+- Category  
+- Review Rating  
 
 This data helps analyze spending patterns, customer segments, and purchasing trends.
 
