@@ -1133,6 +1133,7 @@ Science roles**.
 
 M.Sc. Data Science
 
+LinkedIn: https://www.linkedin.com/in/imrahulghoshal/
 GitHub: https://rahulghoshal.github.io/
 
 ------------------------------------------------------------------------
